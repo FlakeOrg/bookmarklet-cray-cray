@@ -1,5 +1,3 @@
-can you make the following code single line
-
 javascript:(function(){
   if(!window.destroyedElements) window.destroyedElements=[];
 
